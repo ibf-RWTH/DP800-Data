@@ -1,0 +1,76 @@
+LOGGER: <Logger RVE-Gen (DEBUG)> 
+PHASENUM: {'Ferrite': 1, 'Martensite': 2, 'Pearlite': 3, 'Bainite': 4, 'Inclusions': 5, 'Bands': 6} 
+RESULT_LOG: <Logger RVE-Result (DEBUG)> 
+SHRINK_FACTOR: 0.6694329500821695 
+abaqus_flag: False 
+allowed_intersection_ratio: 0.05 
+anim_flag: False 
+b_sigma: 0.1 
+band_filling: 1 
+band_orientation: xy 
+band_ratio_final: None 
+band_ratio_rsa: None 
+bandwidths: None 
+bin_size: 0.5 
+block_file: None 
+box_size: 32 
+box_size_y: None 
+box_size_z: None 
+box_volume: 32768 
+calibration_rve_flag: False 
+circularity: 1 
+damask_flag: True 
+debug: True 
+decreasing_factor: 0.95 
+dimension: 3 
+element_type: HEX8 
+equiv_d: 5 
+fig_path: C:\Venvs\CP_Cal/OutputData/2024-09-11_005/Figs 
+file_dict: {1: 'C:\\Venvs\\CP_Cal\\80_TrainedGANs\\DP800GAN_STAND20220709/TrainedData_1.pkl', 2: 'C:\\Venvs\\CP_Cal\\80_TrainedGANs\\DP800GAN_STAND20220709/TrainedData_8.pkl', 3: None, 4: None, 5: None, 6: None} 
+filename: substructure_plot.png 
+gen_path: C:\Venvs\CP_Cal/OutputData/2024-09-11_005/Generation_Data 
+gui_flag: False 
+infobox_obj: None 
+low_rsa_resolution: False 
+lower: None 
+lower_band_bound: 2 
+moose_flag: False 
+n_pts: 64 
+n_pts_y: None 
+n_pts_z: None 
+num_cores: 1 
+number_of_bands: 0 
+number_of_rves: 6 
+orientation_relationship: KS 
+p_sigma: 0.1 
+pak_file: None 
+pbc_flag: True 
+phase2iso_flag: True 
+phase_ratio: {1: 0.7, 2: 0.3, 3: 0, 4: 0, 5: 0, 6: 0} 
+phases: ['Ferrite', 'Martensite'] 
+plot: False 
+plt_name: substructure_plot.png 
+post_path: C:\Venvs\CP_Cal/OutputData/2024-09-11_005/Postprocessing 
+progress_obj: None 
+reduced_elements: True 
+resolution: 2 
+root: C:\Venvs\CP_Cal 
+roughness_flag: False 
+rve_data_substructure: None 
+rwth_colors: [(0.390625, 0.39453125, 0.40234375), (0.0, 0.32421875, 0.62109375), (0.796875, 0.02734375, 0.1171875), (0.5546875, 0.7265625, 0.89453125), (0.9609375, 0.65625, 0.0), (0.62890625, 0.0625, 0.20703125)] 
+save: True 
+slope_offset: 0 
+smoothing_flag: False 
+step_half: 0.25 
+store_path: C:\Venvs\CP_Cal/OutputData/2024-09-11_005 
+sub_run: None 
+submodel_flag: False 
+subs_file: ./ExampleInput/example_block_inp.csv 
+subs_file_flag: False 
+subs_flag: False 
+t_mu: 1.0 
+texture_flag: True 
+upper: None 
+upper_band_bound: 5 
+visualization_flag: False 
+xfem_flag: False 
