@@ -1,0 +1,6123 @@
+loadstep:
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [0.9999999999999999, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.0166666666666666, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.0333333333333332, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.0499999999999998, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.0666666666666667, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.0833333333333333, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.0999999999999999, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1166666666666665, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1333333333333333, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.15, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.15, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.151883746123479, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1537376654141587, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1555324033109236, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.157239542318179, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.158832051962391, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1602847167868175, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1615745356076517, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1626810857098409, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1635868462159853, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1642774755081584, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.164742038310015, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1649731788336162, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1649672372493993, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1647243076351368, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1642482364863285, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.163546561811615, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1626303937775642, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1615142387926707, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.160215769815991, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1587555465272927, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1571566897894885, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1554445155578408, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1536461340325488, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1517900204016411, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1499055639709463, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1480226028201164, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.146170951352862, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1443799282220675, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.142677892104519, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1410917926756872, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.139646743894336, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1383656263534776, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1372687249939597, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1363734079170569, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1356938513816732, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.135240815340493, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1350214730691952, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1350392975863413, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.135294006662343, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1357815672882254, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1364942595334278, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1374207987815301, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1385465144084552, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1398535820739872, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1413213059485605, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1429264464065918, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1446435879977372, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1464455418696917, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.148303776270654, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1501888683149768, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1520709698588378, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.153920280109359, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1557075174839806, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.157404383248769, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1589840095945128, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1604213850558587, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1616937505375016, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.162780959676825, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1636657978370937, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1643342546803266, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1647757460039876, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1649832813289838, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.164953574585413, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.164687096143493, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1641880653658188, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1634643837988787, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.16252751006166, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1613922784123285, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1600766638657607, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1586014975810073, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1569901370251803, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1552680961363204, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1534626413411642, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.151602359824381, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1497167068852119, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1478355395485678, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1459886438152898, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1442052630369888, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1425136348830776, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1409405442315588, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1395108990630023, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1382473360729126, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1371698622471393, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1362955380755475, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1356382074198728, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1352082783129789, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.135012558160295, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1350541459528136, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1353323831983322, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1358428643478775, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.136577506552224, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1375246776439984, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1386693803189283, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.139993489599945, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1414760398241919, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1430935566088392, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1448204285394377, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1466293126955702, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1484915675927998, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.150377706685802, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1522578652520101, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1541022732632382, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1558817267579338, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1575680502504517, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.159134542855662, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1605564010650475, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1618111114801482, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1628788072848908, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1637425828125025, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1643887612262176, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1648071110753837, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1649910082980595, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1649375411049945, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1646475560842766, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.164125644796636, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1633800710736577, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1624226401700402, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1612685118417203, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1599359603095443, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1584460849091665, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1568224760086863, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1550908414838112, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1532785996648567, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1514144452007735, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1495278947142211, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1476488194416836, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.145806972258707, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1440315165792372, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1423505645883694, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1407907321200266, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1393767172275442, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.138130909119982, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1370730336561818, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1362198410097406, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1355848404503492, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1351780864409082, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.135006019437315, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1350713639116643, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1353730852135395, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.135906405952447, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1366628816419937, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1376305344080764, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1387940426439762, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.140134983609399, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1416321251322006, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1432617617940546, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1449980902769705, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1468136179275066, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.148679598069558, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1505664851730715, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1524444026716418, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1542836160216683, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1560550035127515, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1577305173746208, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1592836278795233, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1606897434082533, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1619265998285853, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1629746130207768, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1638171889683278, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1644409865040843, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1648361285514237, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.16499635851577, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.164919139350174, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.164605693726371, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1640609846752574, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.163293637003324, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1623158007293148, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1611429587034332, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1597936814552052, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1582893331516924, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1566537333218438, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1549127797031755, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1530940381825379, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1512263063237673, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1493391573932246, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1474624721030278, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.145625965486254, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1438587163954679, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.142188707074396, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1406423800930707, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.139244219661838, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1380163639536127, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1369782545727884, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1361463287210372, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1355337589341759, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.135150244511055, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1350018579369383, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.13509094873307, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1354161062548587, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1359721820277224, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1367503712669322, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.137738352290689, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1389204816189937, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1402780416691625, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1417895371260212, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1434310352941248, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1451765450429325, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1469984283448043, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1488678378896127, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1507551738468753, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.152630552543133, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1544642796336375, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1562273202762479, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.157891758862905, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1594312410293923, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1608213909446967, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1620401972726975, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1630683616949498, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1638896044761264, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.164490922233863, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1648627938315284, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.164999331133865, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1648983722384605, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1645615157068494, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1639940952532304, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1632050952915782, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1622070086783574, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1610156389033055, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1596498498603631, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1581312671608133, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1564839357179846, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1547339390252411, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.152908986155532, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.151037973021865, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.149150524845605, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1472765270770628, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.145445652195673, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1436868898823083, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.142028088002878, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1404955116711832, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.139113427372728, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1379037187343826, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1368855400237217, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.136075012864453, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.135484970970078, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.135124756937622, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1350000743189503, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1351128973119524, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.135461439501513, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.136040182145227, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1368399615559859, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1378481141978363, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1390486771976978, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1404226410980771, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1419482508487486, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1436013502715607, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1453557645441894, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1471837146466712, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1490562572084566, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1509437427915432, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1528162853533286, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1546442354558104, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.156398649728439, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1580517491512512, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1595773589019227, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.160951322802302, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1621518858021636, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.163160038444014, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1639598178547728, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1645385604984868, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1648871026880474, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1649999256810495, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1648752430623779, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1645150290299218, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1639249871355468, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1631144599762782, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1620962812656173, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.160886572627272, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1595044883288166, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.157971911997122, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1563131101176916, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1545543478043268, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.152723472922937, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1508494751543947, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1489620269781349, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1470910138444679, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.145266060974759, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1435160642820152, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1418687328391866, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.140350150139637, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1389843610966943, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1377929913216425, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1367949047084216, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1360059047467694, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1354384842931504, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1351016277615393, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.135000668866135, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1351372061684715, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1355090777661367, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1361103955238734, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.13693163830505, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1379598027273023, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.139178609055303, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1405687589706075, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1421082411370949, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.143772679723752, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1455357203663623, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1473694474568668, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1492448261531245, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1511321621103872, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1530015716551956, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1548234549570675, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.156568964705875, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1582104628739787, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1597219583308374, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.161079518381006, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1622616477093108, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1632496287330676, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1640278179722774, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1645838937451412, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1649090512669298, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1649981420630615, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1648497554889448, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.164466241065824, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1638536712789627, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1630217454272114, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.161983636046387, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1607557803381618, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.159357619906929, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1578112929256037, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.156141283604532, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1543740345137459, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.152537527896972, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1506608426067753, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1487736936762325, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.146905961817462, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1450872202968243, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1433462666781558, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1417106668483075, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1402063185447946, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1388570412965666, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.137684199270685, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1367063629966758, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1359390153247424, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.135394306273629, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1350808606498257, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1350036414842297, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1351638714485761, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1355590134959155, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.136182811031672, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.137025386979223, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1380734001714146, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1393102565917466, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1407163721204765, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.142269482625379, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1439449964872483, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1457163839783315, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.147555597328358, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1494335148269283, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1513204019304417, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1531863820724932, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1550019097230293, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1567382382059452, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1583678748677992, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1598650163906008, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1612059573560236, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1623694655919237, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1633371183580061, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1640935940475527, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1646269147864603, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1649286360883355, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1649939805626848, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1648219135590916, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1644151595496506, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1637801589902592, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.162926966343818, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1618690908800178, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1606232827724556, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1592092678799732, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1576494354116305, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1559684834207626, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.154193027741293, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1523511805583162, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1504721052857787, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1485855547992263, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1467214003351431, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1449091585161884, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1431775239913136, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1415539150908334, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1400640396904556, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1387314881582795, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1375773598299597, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1366199289263421, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1358743552033639, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1353524439157232, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1350624588950053, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1350089917019404, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1351928889246161, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.135611238773782, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1362574171874973, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1371211927151088, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1381888885198517, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1394435989349523, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1408654571443377, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.142431949749548, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.144118273242066, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1458977267367616, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1477421347479897, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1496222933141977, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1515084324072, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1533706873044296, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1551795714605622, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1569064433911607, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.158523960175808, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1600065104000545, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1613306196810715, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1624753223560014, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.163422493447776, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1641571356521223, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1646676168016676, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1649458540471862, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1649874418397048, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.164791721687021, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.164361792580127, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1637044619244523, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1628301377528605, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1617526639270872, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1604891009369975, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.159059455768441, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1574863651169223, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.155794736963011, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.15401135618471, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.152164460451432, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.150283293114788, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1483976401756189, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1465373586588357, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1447319038636794, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1430098629748195, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1413985024189925, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.139923336134239, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.138607721587671, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1374724899383397, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.136535616201121, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.135811934634181, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1353129038565066, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.135046425414587, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.135016718671016, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1352242539960122, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1356657453196732, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1363342021629061, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1372190403231748, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1383062494624983, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1395786149441411, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.141015990405487, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1425956167512306, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1442924825160192, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1460797198906407, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.147929030141162, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.149811131685023, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1516962237293458, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.153554458130308, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1553564120022626, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.157073553593408, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1586786940514393, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1601464179260126, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1614534855915446, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1625792012184697, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.163505740466572, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1642184327117744, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.164705993337657, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1649607024136586, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1649785269308046, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.164759184659507, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1643061486183266, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.163626592082943, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1627312750060401, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1616343736465222, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1603532561056638, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1589082073243127, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1573221078954807, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1556200717779324, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1538290486471379, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1519773971798835, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1500944360290535, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1482099795983587, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.146353865967451, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.144555484442159, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1428433102105113, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.141244453472707, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1397842301840089, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1384857612073291, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1373696062224357, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1364534381883848, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1357517635136716, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.135275692364863, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1350327627506005, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1350268211663836, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1352579616899847, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1357225244918414, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1364131537840145, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.137318914290159, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1384254643923482, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1397152832131823, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.141167948037609, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1427604576818209, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1444675966890763, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1462623345858411, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.1481162538765206, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+  - boundary_conditions:
+      mechanical:
+        F:
+          - [1.15, 0, 0]
+          - [0, 1, 0]
+          - [0, 0, x]
+        P:
+          - [x, x, x]
+          - [x, x, x]
+          - [x, x, 0]
+    discretization: {N: 10, t: 100}
+    f_out: 10
+
+solver: {mechanical: spectral_polarization}
